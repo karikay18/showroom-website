@@ -1,0 +1,105 @@
+body {
+    color: white;
+
+}
+
+/* images */
+.tvs-logo {
+    height: 28px;
+    width: 153px;
+    margin-bottom: 0%;
+}
+
+.map-logo {
+    height: 100px;
+    width: 150px;
+
+    /* width: 50%; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+/* navbar */
+.navbar {
+    width: 100%;
+
+    padding: 0 0 4.5rem;
+
+}
+
+.upper-bar {
+    font-size: 10px;
+    background-color: black;
+    color: white;
+    font-family: 'PT Sans Bold 700', sans-serif;
+    padding: 5px 50px;
+    margin-right: 0px;
+}
+
+.list {
+    list-style: none;
+    text-align: right;
+}
+
+
+
+
+.intro {
+    text-align: right;
+    color: white;
+
+    /* margin-left: 0; */
+    /* position: absolute;
+    margin-left:800px ; */
+
+}
+
+.navbar-custom-niche-wala {
+    background-color: black;
+    color: white;
+    font-family: 'PT Sans Bold 700', sans-serif;
+    /* width: 100%; */
+    /* font-family: 'PT Sans', sans-serif; */
+    /* float: right; */
+    padding: 5px 33px;
+    
+
+
+}
+.collapse{
+    display: flex;
+    flex-direction: row;
+    align-items: left;
+}
+
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: white;
+
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+
+
+/* map
+ */
+
+.map {
+    background-color: black;
+    text-align: center;
+    /* align-content: center; */
+
+}
+
+h2 {
+    color: white;
+
+
+}
