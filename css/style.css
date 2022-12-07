@@ -70,9 +70,8 @@ body {
 
 }
 .collapse{
-    display: flex;
-    flex-direction: row;
-    align-items: left;
+   position: relative;
+   left: 777px;
 }
 
 
